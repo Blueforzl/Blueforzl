@@ -1,26 +1,22 @@
-# Hi there! 👋 I'm @Blueforzl
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Blueforzl&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=fff" width="100%"/>
 
-Hey, world! I'm **Blueforzl**, a passionate undergrad from the **Artificial Intelligence College** who's diving headfirst into the wild world of tech. Picture this: a student by day, coding ninja by night, dreaming of building apps that could one day outsmart Siri (or at least make your coffee order via AI). 😎
+## Hi, I'm Blueforzl! 👋
 
-👀 **I'm interested in...**  
-- AI and machine learning – turning sci-fi into reality, one neural network at a time!  
-- Full-stack development: From sleek frontends that wow users to bulletproof backends that keep everything humming.  
-- Open-source adventures, quirky side projects, and anything involving robots (who doesn't love a good bot?). Bonus points for ethical AI and sustainable tech. 🚀
+*Artificial Intelligence College • 本科在读*<br>
+*Full-stack developer in training • AI Enthusiast • Spring Boot + Vue3 狂热爱好者*
 
-🌱 **I'm currently learning...**  
-- Frontend magic with React, Vue, and vanilla JS – making websites that don't just work, but sparkle!  
-- Backend wizardry using Node.js, Spring Boot, and databases that can handle my endless queries.  
-- AI frameworks like TensorFlow and PyTorch, because why stop at code when you can teach machines to think? Currently knee-deep in a pet management system project that's equal parts fun and frustrating (but hey, that's coding life!). 📚
+### A little more about me...
 
-💞️ **I'm looking to collaborate on...**  
-- Full-stack web apps, especially AI-powered ones – think smart chatbots, recommendation engines, or even a collaborative AI art generator.  
-- Open-source contributions to AI/ML repos or frontend tools. If you're into hackathons, indie projects, or just brainstorming wild ideas over virtual coffee, hit me up! Let's build something epic together and maybe change the world (or at least make it a bit more efficient). 🤝✨
-
-📫 **How to reach me...**  
-- Shoot me an email at [2559118320@qq.com](mailto:2559118320@qq.com) – I'm always up for a good tech chat!  
-- Or ping me here on GitHub – issues, PRs, or just a "hey" in the discussions. Let's connect and code! 💌
-
----
-
-*Fun fact: This profile is my digital playground. Fork it, star it, or suggest improvements – I'm all ears (and algorithms)!*  
-![AI Vibes](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif) <!-- Just for that extra flair! -->
+```javascript
+const blue = {
+  pronouns: "he" | "him",
+  university: "Artificial Intelligence College",
+  currently: "Undergrad • 肝毕设中",
+  code: ["Java", "Python", "JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: ["Spring Boot", "Vue3", "React", "Node.js", "MySQL", "PyTorch", "Docker", "Git"],
+  currentProject: "PetManagementSystem – 基于Spring Boot + Vue3的宠物管理系统（就是这个仓库的最大功臣）",
+  learning: ["LangChain", "Diffusion Models", "NestJS", "微服务", "大模型微调"],
+  architecture: ["前后端分离", "微服务", "干净架构", "AI驱动开发"],
+  challenge: "目标：2026年前成为真正的Full-stack + AI Engineer，期间不挂科",
+  funFact: "写后端听周杰伦，写前端听Phonk，训练模型听纯音乐"
+};
