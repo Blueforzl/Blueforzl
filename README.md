@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Blueforzl&fontSize=80&fontAlignY=38&animation=twinkling&fontColor=fff" width="100%"/>
 
 ## Hi, I'm Blueforzl! 👋
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 *Artificial Intelligence College • 本科在读*<br>
 *Full-stack developer in training • AI Enthusiast • Spring Boot + Vue3 狂热爱好者*
